@@ -2,7 +2,7 @@
 
     "manifest_version": 2,
     "name": "Lembrar de beber água!",
-    "version": "1.1",
+    "version": "1",
     "author": "Pedro Coelho -https://github.com/pedroxc",
     "description":
       "Uma extensão para se hidratar!.",
