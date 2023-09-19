@@ -8,7 +8,7 @@ var noteType = "both";
 var opt = {
   type: "basic",
   title: "Hora da Água",
-  message: "Hora de se Hidratar!!!",
+  message: "Se hidrate parça!!!",
   iconUrl: "noteImage.png",
   requireInteraction: false,
 };
